@@ -1,0 +1,48 @@
+body {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    min-height: 100vh;
+}
+
+.composition {
+    height: 400px;
+    width: 600px;
+    background: URL("img/bg.jpg");
+    position: relative;
+}
+
+.asteroid {
+    z-index: 1;
+    position: absolute;
+    top: 100px;
+    right: 80px;
+}
+
+.superman {
+    z-index: 1;
+    position: absolute;
+    bottom: 0;
+    right: 36px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
